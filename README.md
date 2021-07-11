@@ -1,3 +1,6 @@
+## Continued by [asrothear](https://github.com/asrothear)
+
+
 # Habitable Zone plugin for [EDMC](https://github.com/Marginal/EDMarketConnector/wiki)
 
 This plugin helps explorers find high-value planets. It displays the "habitable-zone" (i.e. the range of distances in which you might find an Earth-Like World) when you scan the primary star in a system with a [Detailed Surface Scanner](http://elite-dangerous.wikia.com/wiki/Detailed_Surface_Scanner).
