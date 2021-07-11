@@ -35,8 +35,8 @@ SETTING_NONE    = 0xffff
 
 WORLDS = [
     # Type    Black-body temp range  EDSM description
-    ('Metal-Rich',      0,  1103.0, 'Metal-rich body'),
-    ('Earth-Like',    278.0, 227.0, 'Earth-like world'),
+    ('Metal-Rich',      0,  1103.0, 'Metal rich body'),
+    ('Earth-Like',    278.0, 227.0, 'Earthlike body'),
     ('Water',         307.0, 156.0, 'Water world'),
     ('Ammonia',       193.0, 117.0, 'Ammonia world'),
     ('Terraformable', 315.0, 223.0, 'terraformable'),
