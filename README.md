@@ -23,5 +23,7 @@ Calculations taken from Jackie Silver's [Hab-Zone Calculator](https://forums.fro
 ## License
 
 Copyright © 2017 Jonathan Harris.
+
 Continued by [asrothear](https://github.com/asrothear) Copyright for all Changes © 2021
+
 Licensed under the [GNU Public License (GPL)](http://www.gnu.org/licenses/gpl-2.0.html) version 2 or later.
